@@ -21,3 +21,5 @@ export const apiActions = {
     })
 
 }
+
+export default apiActions;
